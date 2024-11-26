@@ -1,6 +1,6 @@
 {
-  "manifest_version": 2,
-  "name": "MyEpitech",
+  "manifest_version": 3,
+  "name": "MyEpitech Modified By Tom",
   "version": "2.3",
   "description": "Restore the old percentage of My Epitech !",
   "permissions": [
